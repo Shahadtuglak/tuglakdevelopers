@@ -1,38 +1,81 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mulish', sans-serif;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navbar{
+  background-color: #fff!important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.navbar-brand{
+  color: #565387 !important;
+  font-size: 1.9rem !important;
+
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.navbar a{
+  font-size: 1.3rem !important;
+  text-transform: capitalize !important;
+}
+
+
+.navbar a:hover{
+  color: #3498db !important;
+}
+
+
+.btn{
+  border-radius: 30px !important;
+  width: 10rem;
+  transition: 0.5s !important;
+}
+
+
+.home-img{
+  width: 500px;
+  height: 450px;
+}
+
+.brand-name{
+  color:steelblue;
+}
+
+
+h5{
+ float: inline-end;
+}
+
+.card{
+  width: 400px;
+  margin:5px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+
+}
+
+.card:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+
+
+.card-div{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-around;
+  flex-wrap: wrap;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.card-img{
+  width: 399px !important;
+}
+.card:hover {
+  transition: transform .5s ease;
+  transform: scale(1.1);
+
+  /* transform: scale(1.1);  */
 }
