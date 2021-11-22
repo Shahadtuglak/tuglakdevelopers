@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tuglakdevelopers/static/css/main.b3da7263.chunk.css",
+    "main.js": "/tuglakdevelopers/static/js/main.7d93349f.chunk.js",
+    "main.js.map": "/tuglakdevelopers/static/js/main.7d93349f.chunk.js.map",
+    "runtime-main.js": "/tuglakdevelopers/static/js/runtime-main.04491c7d.js",
+    "runtime-main.js.map": "/tuglakdevelopers/static/js/runtime-main.04491c7d.js.map",
+    "static/css/2.383c0125.chunk.css": "/tuglakdevelopers/static/css/2.383c0125.chunk.css",
+    "static/js/2.6c45ba59.chunk.js": "/tuglakdevelopers/static/js/2.6c45ba59.chunk.js",
+    "static/js/2.6c45ba59.chunk.js.map": "/tuglakdevelopers/static/js/2.6c45ba59.chunk.js.map",
+    "index.html": "/tuglakdevelopers/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/tuglakdevelopers/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.b3da7263.chunk.css.map": "/tuglakdevelopers/static/css/main.b3da7263.chunk.css.map",
+    "static/js/2.6c45ba59.chunk.js.LICENSE.txt": "/tuglakdevelopers/static/js/2.6c45ba59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04491c7d.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.6c45ba59.chunk.js",
+    "static/css/main.b3da7263.chunk.css",
+    "static/js/main.7d93349f.chunk.js"
+  ]
+}
